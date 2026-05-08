@@ -61,7 +61,7 @@ Interactive quiz system with scoring logic
 ## 🧠 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/your-username">
+  <a href="https://leetcode.com/u/euxXFwGNhF/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
