@@ -1,62 +1,57 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=100&lines=SHARIQ+SHAKEEL;MERN+STACK+ARCHITECT;AI+INTEGRATION+EXPERT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=100&lines=SHARIQ+SHAKEEL;FULL+STACK+ENGINEER;MERN+%7C+AI+INTEGRATION+DEVELOPER" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System--Status-Active-0e75b6?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Authorized--Access-Granted-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Active-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-success?style=for-the-badge" />
 </p>
 
 ---
 
 ## ⚡ About Me
-I am a **Full-Stack Engineer** specialized in building high-frequency web applications. My focus lies at the intersection of **Scalable Architecture** and **Machine Learning**.
+Full-Stack Developer focused on building **scalable web applications** and exploring **AI-powered systems**.
 
-- 🌌 **Current Mission:** Developing a next-gen **Full Stack E-commerce Engine**.
-- 🛠 **Core Protocol:** MERN (MongoDB, Express, React, Node).
-- 🧬 **Next Gen:** Integrating **OpenAI & Vector DBs** into web workflows.
-- 📡 **Ping Me:** [shariqshakeel107@gmail.com](mailto:shariqshakeel107@gmail.com)
+- 🌐 Working on modern **MERN & Next.js applications**
+- 🧠 Interested in **AI integration & backend architecture**
+- 🚀 Building production-ready full-stack projects
+- 📩 Contact: **shariqshakeel107@gmail.com**
 
 ---
 
-## 🛠️ Integrated Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,ts,js,tailwind,nextjs,mysql,firebase,github,vscode,postman,redux,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,ts,js,tailwind,nextjs,mysql,firebase,redux,git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-## 🛰️ Project Archives
-| Mission | Objective | Deployment |
-| :--- | :--- | :---: |
-| **StackHub** | Multi-Media Cloud Storage | [Access Site](https://portfolio-website-five-flame-26.vercel.app) |
-| **OLX 2.0** | High-Fidelity Marketplace UI | [Access Site](https://portfolio-website-five-flame-26.vercel.app) |
-| **Quiz Engine** | Algorithmic Assessment Tool | [Access Site](https://portfolio-website-five-flame-26.vercel.app) |
+## 🚀 Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **StackHub** | Cloud-based media & playlist system | [Live](https://portfolio-website-five-flame-26.vercel.app) |
+| **OLX Clone** | Marketplace UI with full functionality | [Live](https://portfolio-website-five-flame-26.vercel.app) |
+| **Quiz Engine** | Dynamic quiz & assessment platform | [Live](https://portfolio-website-five-flame-26.vercel.app) |
 
 ---
 
-## 📊 Matrix Analytics
-
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariqshakeel3478&theme=transparent&fire=0e75b6&sideNums=ffffff&sideLabels=0e75b6&stroke=0e75b6&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shariqshakeel3478&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariqshakeel3478&theme=transparent&hide_border=true" width="48%" />
 </p>
 
 ---
 
+## 🧠 Problem Solving (LeetCode)
 
-
-### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 📡 Signal Terminal
-<p align="center">
-<a href="https://linkedin.com/in/shariq-shakeel"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://portfolio-website-five-flame-26.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:shariqshakeel107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
+👉 Add your profile here:
